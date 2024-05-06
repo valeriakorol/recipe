@@ -1,0 +1,32 @@
+C:\Users\korol\source\repos\recipe api\recipe api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\korol\source\repos\recipe api\recipe api\bin\Debug\net6.0\appsettings.json
+C:\Users\korol\source\repos\recipe api\recipe api\bin\Debug\net6.0\recipe api.exe
+C:\Users\korol\source\repos\recipe api\recipe api\bin\Debug\net6.0\recipe api.deps.json
+C:\Users\korol\source\repos\recipe api\recipe api\bin\Debug\net6.0\recipe api.runtimeconfig.json
+C:\Users\korol\source\repos\recipe api\recipe api\bin\Debug\net6.0\recipe api.dll
+C:\Users\korol\source\repos\recipe api\recipe api\bin\Debug\net6.0\recipe api.pdb
+C:\Users\korol\source\repos\recipe api\recipe api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\korol\source\repos\recipe api\recipe api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\korol\source\repos\recipe api\recipe api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\korol\source\repos\recipe api\recipe api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\korol\source\repos\recipe api\recipe api\obj\Debug\net6.0\recipe api.csproj.AssemblyReference.cache
+C:\Users\korol\source\repos\recipe api\recipe api\obj\Debug\net6.0\recipe api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korol\source\repos\recipe api\recipe api\obj\Debug\net6.0\recipe api.AssemblyInfoInputs.cache
+C:\Users\korol\source\repos\recipe api\recipe api\obj\Debug\net6.0\recipe api.AssemblyInfo.cs
+C:\Users\korol\source\repos\recipe api\recipe api\obj\Debug\net6.0\recipe api.csproj.CoreCompileInputs.cache
+C:\Users\korol\source\repos\recipe api\recipe api\obj\Debug\net6.0\recipe api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\korol\source\repos\recipe api\recipe api\obj\Debug\net6.0\recipe api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\korol\source\repos\recipe api\recipe api\obj\Debug\net6.0\staticwebassets\msbuild.recipe api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\korol\source\repos\recipe api\recipe api\obj\Debug\net6.0\staticwebassets\msbuild.build.recipe api.props
+C:\Users\korol\source\repos\recipe api\recipe api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.recipe api.props
+C:\Users\korol\source\repos\recipe api\recipe api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.recipe api.props
+C:\Users\korol\source\repos\recipe api\recipe api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\korol\source\repos\recipe api\recipe api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\korol\source\repos\recipe api\recipe api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\korol\source\repos\recipe api\recipe api\obj\Debug\net6.0\scopedcss\bundle\recipe api.styles.css
+C:\Users\korol\source\repos\recipe api\recipe api\obj\Debug\net6.0\recipe api.csproj.CopyComplete
+C:\Users\korol\source\repos\recipe api\recipe api\obj\Debug\net6.0\recipe api.dll
+C:\Users\korol\source\repos\recipe api\recipe api\obj\Debug\net6.0\refint\recipe api.dll
+C:\Users\korol\source\repos\recipe api\recipe api\obj\Debug\net6.0\recipe api.pdb
+C:\Users\korol\source\repos\recipe api\recipe api\obj\Debug\net6.0\recipe api.genruntimeconfig.cache
+C:\Users\korol\source\repos\recipe api\recipe api\obj\Debug\net6.0\ref\recipe api.dll
